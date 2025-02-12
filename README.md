@@ -1,6 +1,6 @@
 # 🤖 Health Care Chatbot
 
-Ce projet est un chatbot de soins de santé basé sur **Streamlit** et **Ollama**. Il utilise le modèle **Mistral** pour répondre aux questions des utilisateurs.
+Ce projet est un chatbot de conversation basé sur **Streamlit** et **Ollama**. Il utilise le modèle **Mistral** pour répondre aux questions des utilisateurs.
 
 ## 🚀 Fonctionnalités
 - Interface utilisateur avec **Streamlit**
