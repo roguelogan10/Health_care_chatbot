@@ -12,11 +12,12 @@ Ce projet est un chatbot de conversation basé sur **Streamlit** et **Ollama**. 
 ```
 📁 Health_care_chatbot
 ├── 📁 src
-│   ├── app.py            # Code principal du chatbot
-│   ├── Dockerfile        # Fichier Docker pour le conteneur
-│   ├── requirements.txt  # Dépendances Python
-│   ├── docker-compose.yml # Déploiement multi-conteneurs
-├── README.md            # Documentation du projet
+│    ├── 📁 src
+│         ├── app.py            # Code principal du chatbot
+│    ├── Dockerfile        # Fichier Docker pour le conteneur
+│    ├── requirements.txt  # Dépendances Python
+│    ├── docker-compose.yml # Déploiement multi-conteneurs
+│    ├──    README.md            # Documentation du projet
 ```
 
 ---
